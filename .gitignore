@@ -1,0 +1,20 @@
+.git/
+__pycache__/
+data/factor_data
+# 数据
+*.pkl
+*.hd5
+*.csv
+*.db
+*.wal
+
+# 环境
+.env
+.vim
+.nvimrc
+.vscode
+
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
